@@ -1,0 +1,22 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    display: inline-block;
+}
+
+nav {
+    display: inline-block;
+    margin-left: 100px;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    padding-right: 25px;
+    color:rgb(38, 180, 38);
+}

@@ -1,0 +1,22 @@
+html {
+    color:  rgb(51, 51, 51);
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+section {
+    width: 70%;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+
+img {
+    box-sizing: inherit;
+    width: 65%;
+    height: 50%;
+}
